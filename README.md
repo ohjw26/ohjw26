@@ -46,6 +46,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
   <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=ohjw26&show_icons=true&theme=vue" />
+      <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjw26&layout=compact&theme=transparent" />
   </div> 
 </div>
