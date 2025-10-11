@@ -44,12 +44,12 @@
 
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-  <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ohjw26&show_icons=true&theme=vue" />
-      <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjw26&layout=compact&theme=transparent" />
+  <div align="center" style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ohjw26&show_icons=true&theme=vue" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjw26&layout=compact&theme=transparent" height="180px" />
   </div> 
 </div>
+
 
 
     
