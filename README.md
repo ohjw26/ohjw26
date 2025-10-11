@@ -26,7 +26,7 @@
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
   <div align="center"> 
-    <a href="https://velog.io/@ohjw26/posts">
+    <a href="https://velog.io/@ohjw226/posts">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
     </a>
     <a href="https://blog.naver.com/ziony02">
