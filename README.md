@@ -29,9 +29,9 @@
     <a href="https://velog.io/@ohjw26/posts">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
     </a>
-    <a href="https://blog.naver.com/ziony02">
+    <!-- <a href="https://blog.naver.com/ziony02">
       <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-    </a>
+    </a> -->
     <a href="https://ziony02.tistory.com">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>
