@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩🏻‍💻 Contact me </h2> <br> 
   <div align="center"> 
     <a href="https://velog.io/@ohjw26/posts">
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
@@ -44,7 +44,7 @@
 </div>
 
 <div align="center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📈 Stats </h2> 
   <div align="center" style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=ohjw26&show_icons=true&theme=dracula" height="180px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjw26&layout=compact&theme=dracula" height="180px" />
