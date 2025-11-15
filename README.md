@@ -36,9 +36,10 @@
     <a href="https://ziony02.tistory.com">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>
-    <a href="https://www.notion.so/JIWON-OH-2048ebc5cd704a6d916b6eac9d6a02f6?source=copy_link">
+    <a href="https://www.notion.so/JIWON-OH-BACKEND-2aca6279a00580a5a144d3300aec4c1f?source=copy_link">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
+
   </div>  
   <br>
 </div>
