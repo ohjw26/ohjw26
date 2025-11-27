@@ -13,12 +13,21 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    
+  <br/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br/><br/>
 
   <p><b>Frameworks & Other Systems</b></p>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br/>
 </div>
 
@@ -47,7 +56,7 @@
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📈 Stats </h2> 
   <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ohjw26&show_icons=true&theme=dracula" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ohjw26&show_icons=true&theme=dracula&hide=contribs" height="180px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohjw26&exclude_repo=python-data-analysis&layout=compact&theme=dracula" height="180px"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohjw226" />
 
