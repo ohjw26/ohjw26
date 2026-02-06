@@ -68,8 +68,8 @@
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📈 Stats </h2> 
   <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <img src="http://github-readme-stats.vercel.app/api?username=ohjw26&show_icons=true&theme=dracula&hide=contribs" height="180px" />
-    <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=ohjw26&exclude_repo=python-data-analysis&layout=compact&theme=dracula" height="180px"/>
+    <img src="https://github-readme-stats-qzg6ftl3b-jiwons-projects-fce5acf3.vercel.app/api?username=ohjw26&show_icons=true&theme=dracula&hide=contribs&v=2" height="180px" />
+    <img src="https://github-readme-stats-qzg6ftl3b-jiwons-projects-fce5acf3.vercel.app/api/top-langs/?username=ohjw26&exclude_repo=python-data-analysis&layout=compact&theme=dracula&v=2" height="180px"/>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohjw226" />
 
   </div> 
