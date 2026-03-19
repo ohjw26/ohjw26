@@ -1,12 +1,7 @@
-<div align= "center">
-    <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=F5E0EF&height=120&text=OHJIWON&animation=&fontColor=ffffff&fontSize=40" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center"> -->
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+<div align= "left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&pause=1000&color=F7C0F6&width=435&lines=Hi%2C+I'm+Jiwon+Oh!+%E2%89%BD%5E%E2%80%A2%E0%BC%9A%E2%80%A2+%E0%BE%80%E0%BD%B2%E2%89%BC" alt="Typing SVG" /></a>
+    
+<!--  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
 <div style="margin: 0 auto; text-align: center;" align="center"> 
   <p><b>Programming Languages</b></p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -21,7 +16,7 @@
 
   <p><b>Frameworks & Other Systems</b></p>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> -->
+  //<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
@@ -30,7 +25,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br/><br/>
 
-  <!-- <p><b>IDE & Development Tools</b></p>
+  <p><b>IDE & Development Tools</b></p>
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
@@ -42,7 +37,7 @@
       <br/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br/> -->
+  <br/>
 </div>
 
 </div>
@@ -65,33 +60,25 @@
 
   </div>  
   <br>
-</div>
+</div> -->
 
-<div align="center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📈 Stats </h2> 
-  <div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="left"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📈 Stats</h2> 
+  <div align="left" style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats-chi-green-81.vercel.app/api?username=ohjw26&show_icons=true&theme=dracula&hide=contribs&include_all_commits=true&count_private=true&v=2" height="180px" />
     <img src="https://github-readme-stats-chi-green-81.vercel.app/api/top-langs/?username=ohjw26&exclude_repo=python-data-analysis&layout=compact&theme=dracula&v=2" height="180px"/>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohjw226" />
-
   </div> 
 </div>
 
+<br>
+
+<div align="left"> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧩 Algorithms</h2> 
+  <div align="left">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohjw226" />
+  </div> 
+</div>
+</div>
 
 
-    
 
-<!--
-**ohjw26/ohjw26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
