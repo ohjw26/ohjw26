@@ -84,7 +84,9 @@
 <div align="left"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> </h2> 
   <div align="left">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+    <a href="https://www.notion.so/JIWON-OH-65ea6279a00583c8b9a2814589c80e0d?source=copy_link">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+    </a>
   </div> 
 </div>
 
