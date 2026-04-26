@@ -80,7 +80,8 @@
 </div>
 
 <br>
-</br>
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐾 GitAnimals</h2> 
 <p>
   <a href="https://github.com/git-goods/gitanimals">
     <img src="https://render.gitanimals.org/farms/ohjw26"/>
