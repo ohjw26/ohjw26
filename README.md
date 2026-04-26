@@ -70,21 +70,21 @@
   </div> 
 </div>
 
-<br>
+<!-- <br>
 
 <div align="left"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧩 Algorithms</h2> 
   <div align="left">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohjw226" />
   </div> 
-</div>
+</div> -->
 
 <br>
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🐾 GitAnimals</h2> 
 <p>
   <a href="https://github.com/git-goods/gitanimals">
-    <img src="https://render.gitanimals.org/farms/ohjw26"/>
+    <img src="https://render.gitanimals.org/farms/ohjw26" width="500"/>
   </a>
 </p>
 
