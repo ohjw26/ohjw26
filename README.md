@@ -4,7 +4,7 @@
 <div align="left"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📈 Stats</h2> 
   <div align="left" style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats-chi-green-81.vercel.app/api?username=ohjw26&show_icons=true&theme=dracula&hide=contribs&include_all_commits=true&count_private=true&v=1"/>
+    <img src="https://github-readme-stats-chi-green-81.vercel.app/api?username=ohjw26&show_icons=true&theme=dracula&hide=contribs&include_all_commits=true&count_private=true&v=2"/>
     <img src="https://github-readme-stats-chi-green-81.vercel.app/api/top-langs/?username=ohjw26&exclude_repo=python-data-analysis&layout=compact&theme=dracula&v=2" height="180px"/>
   </div> 
 </div>
