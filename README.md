@@ -61,7 +61,7 @@
 
 <hr>
 <div align="left">
-  <a href="https://www.notion.so/...">
+  <a href="https://app.notion.com/p/JIWON-OH-d62b6bf0008b83b08741017c7a6070c0?source=copy_link">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   </a>
 </div>
