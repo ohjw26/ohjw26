@@ -5,7 +5,7 @@
 <h3>📈 Stats<br><img src="https://img.shields.io/badge/-%20-d8dee4" width="100%" height="1" /></h3>
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats-chi-green-81.vercel.app/api?username=ohjw26&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&&bg_color=ffffff&title_color=F7C0F6&text_color=6E7781&icon_color=F7C0F6&border_color=F5D9E9&v=10"/>
+  <img height="165" src="https://github-readme-stats-chi-green-81.vercel.app/api?username=ohjw26&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&theme=graywhite&title_color=57606a&text_color=6E7781&icon_color=A8B0B8&border_color=E5E7EB&v=10"/>
 </div>
 
 <h3>🛠️ Stacks<br><img src="https://img.shields.io/badge/-%20-d8dee4" width="100%" height="1" /></h3>
